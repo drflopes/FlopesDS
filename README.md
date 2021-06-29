@@ -2,4 +2,4 @@
 
 Repositório Data Science
 
-Conteúdo para uso em capacitações de Data Science
+Conteúdo para uso em capacitações sobre Data Science
